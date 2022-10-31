@@ -1,8 +1,8 @@
-<!-- <img src="https://github.com/catherineisonline/personal-portfolio/blob/main/public/project-preview.png?raw=true"><img/> -->
+
 
 # Personal Portfolio
 
-My personal <a href="https://manda21.github.io/personal-portfolio/">portfolio</a> which is my github <br/>
+My personal <a href="https://github.com/mandan21/">portfolio</a> which is my github <br/>
 
 #Built With
 
